@@ -1,0 +1,21 @@
+body {
+  background-color: #f0defe;
+  font-family: Roboto;
+}
+
+.bg-color-nav {
+  background-color: #226685;
+}
+
+.navbar-brand {
+  width: 100px;
+}
+
+footer p {
+  text-align: center;
+  margin: 0px;
+}
+
+footer a {
+  text-decoration: none;
+}

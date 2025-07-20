@@ -1,0 +1,58 @@
+body {
+  background-color: #f0defe;
+  font-family: Roboto;
+}
+
+.bg-color-nav {
+  background-color: #226685;
+}
+
+.navbar-brand {
+  width: 100px;
+}
+
+header {
+  background-image: url(../img/Background.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-top: 82px;
+  padding-bottom: 70px;
+  width: 100%;
+}
+
+header p {
+  font: normal normal 300 16px/19px Roboto;
+  color: #226685;
+  padding: 30px 111px 30px 111px;
+}
+
+h1 {
+  margin: 0px;
+}
+
+h2 {
+  margin: 0px;
+}
+
+.imagen {
+  width: 356px;
+  height: 200px;
+}
+
+.accordion-body {
+  text-align: left;
+}
+
+footer {
+  padding: 24px;
+}
+
+footer p {
+  text-align: center;
+  margin: 0px;
+}
+
+footer a {
+  text-decoration: none;
+}
